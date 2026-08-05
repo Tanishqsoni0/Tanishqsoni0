@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tanishq Soni</h1>
+<h1 align="center">Tanishq Soni</h1>
 <h3 align="center">Full Stack Developer | Building production-grade web apps & AI-powered platforms</h3>
 
 <p align="center">
@@ -34,11 +34,21 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </p>
 
+### 🏙️ 3D Contribution Calendar
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanishqsoni0/Tanishqsoni0/main/profile-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanishqsoni0/Tanishqsoni0/main/profile-3d-contrib/profile-day-green.svg" />
+    <img alt="3D contribution calendar" src="https://raw.githubusercontent.com/Tanishqsoni0/Tanishqsoni0/main/profile-3d-contrib/profile-day-green.svg" width="100%"/>
+  </picture>
+</p>
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanishqsoni0&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishqsoni0&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Tanishqsoni0&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Tanishqsoni0&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
