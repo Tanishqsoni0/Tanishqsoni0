@@ -12,13 +12,13 @@
 
 ---
 
-### 🔭 What I'm building
+### ▹ What I'm Building
 
 - **Jerry's Bins** — a skip bin hire platform under direct contract: customer booking, live postcode-based pricing (Flask), role-based admin dashboard, JWT/OAuth/OTP auth, 92% PyTest coverage, CI via GitHub Actions, load-tested with Locust
 - **AI Learning Platform** — a RAG-based personalized teacher using LangChain, FAISS, and Google Gemini over uploaded PDF content
 - Contract web development for clients across web and AI development, including a remote engagement with an Australia-based client
 
-### 🧰 Tech Stack
+### ▹ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </p>
 
-### 🏙️ 3D Contribution Calendar
+### ▹ Contribution Calendar
 
 <p align="center">
   <picture>
@@ -44,29 +44,39 @@
   </picture>
 </p>
 
-### 📊 GitHub Stats
+### ▹ Pinned-Worthy Work
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Tanishqsoni0&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Tanishqsoni0&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanishqsoni0&theme=tokyonight&hide_border=true" width="70%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanishqsoni0&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
-
-### 📌 Pinned-worthy work
-
-| Project | Stack | Highlight |
-|---|---|---|
-| Jerry's Bins | Flask, JWT/OAuth, PyTest, GitHub Actions | 92% test coverage, 0% failure under load |
-| AI Learning Platform | LangChain, FAISS, Gemini, FastAPI | Full RAG pipeline over PDF content |
-| FinBrokers | ReactJS | Remote contract, Australia-based client |
-| Real-Time Chat App | ReactJS, Firebase | Live messaging, auth, real-time sync |
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">Stack</th>
+      <th align="left">Highlight</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Jerry's Bins</td>
+      <td>Flask, JWT/OAuth, PyTest, GitHub Actions</td>
+      <td>92% test coverage, 0% failure under load</td>
+    </tr>
+    <tr>
+      <td>AI Learning Platform</td>
+      <td>LangChain, FAISS, Gemini, FastAPI</td>
+      <td>Full RAG pipeline over PDF content</td>
+    </tr>
+    <tr>
+      <td>FinBrokers</td>
+      <td>ReactJS</td>
+      <td>Remote contract, Australia-based client</td>
+    </tr>
+    <tr>
+      <td>Real-Time Chat App</td>
+      <td>ReactJS, Firebase</td>
+      <td>Live messaging, auth, real-time sync</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -74,4 +84,4 @@
   <img src="https://komarev.com/ghpvc/?username=Tanishqsoni0&style=flat-square&color=2EA3F7" alt="profile views"/>
 </p>
 
-<p align="center"><i>📫 Reach me at tanishq06012005@gmail.com</i></p>
+<p align="center"><i>Reach me at tanishq06012005@gmail.com</i></p>
