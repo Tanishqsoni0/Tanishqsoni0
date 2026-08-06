@@ -46,37 +46,12 @@
 
 ### ▹ Pinned-Worthy Work
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="left">Project</th>
-      <th align="left">Stack</th>
-      <th align="left">Highlight</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Jerry's Bins</td>
-      <td>Flask, JWT/OAuth, PyTest, GitHub Actions</td>
-      <td>92% test coverage, 0% failure under load</td>
-    </tr>
-    <tr>
-      <td>AI Learning Platform</td>
-      <td>LangChain, FAISS, Gemini, FastAPI</td>
-      <td>Full RAG pipeline over PDF content</td>
-    </tr>
-    <tr>
-      <td>FinBrokers</td>
-      <td>ReactJS</td>
-      <td>Remote contract, Australia-based client</td>
-    </tr>
-    <tr>
-      <td>Real-Time Chat App</td>
-      <td>ReactJS, Firebase</td>
-      <td>Live messaging, auth, real-time sync</td>
-    </tr>
-  </tbody>
-</table>
+| Project | Stack | Highlight |
+|---|---|---|
+| Jerry's Bins | Flask, JWT/OAuth, PyTest, GitHub Actions | 92% test coverage, 0% failure under load |
+| AI Learning Platform | LangChain, FAISS, Gemini, FastAPI | Full RAG pipeline over PDF content |
+| FinBrokers | ReactJS | Remote contract, Australia-based client |
+| Real-Time Chat App | ReactJS, Firebase | Live messaging, auth, real-time sync |
 
 ---
 
